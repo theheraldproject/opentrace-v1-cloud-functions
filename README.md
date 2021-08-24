@@ -2,7 +2,11 @@
 
 *This is the OpenTrace v1 Cloud Functions repository, first published in April 2020 and re-published here in August 2021.*
 
+Please note that this repository is not being actively maintained and should not be used as the basis of any new applications. OpenTrace v2 is under development and its repositories will be published soon. To follow our progress please visit our website: https://heraldprox.io/opentrace .
+
 ![OpenTrace Logo](OpenTrace.png)
+
+----
 
 OpenTrace is the open source reference implementation of BlueTrace.
 
